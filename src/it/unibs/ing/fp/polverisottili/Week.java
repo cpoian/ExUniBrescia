@@ -27,7 +27,6 @@ public class Week {
 	 * stampa la descrizione della settimana
 	 * un messaggio positivo se nessun allarme è scattato
 	 * altrimenti un messaggio negativo e dei messaggi per ogni tipo di allarme scattato
-	 * @param week la settimana di riferimento
 	 */
 	public void printWeeksFeatures() {
 		System.out.println(String.format(MESSAGE_INIT, this.getYear(), this.getIndexNumber()));
