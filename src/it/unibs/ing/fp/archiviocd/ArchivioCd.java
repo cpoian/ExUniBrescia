@@ -17,7 +17,7 @@ public class ArchivioCd {
 		this.title = "Default Archive Name";
 		this.cdList = new ArrayList<Cd>();
 	}
-	
+	//ciao
 	public int getNumeroCd() {
 		return this.getCdList().size();
 	}
