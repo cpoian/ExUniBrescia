@@ -6,6 +6,7 @@ import it.unibs.fp.mylib.EstrazioniCasuali;
 import it.unibs.fp.mylib.InputDati;
 
 //ciao
+//ciao 2
 public class ArchivioCd {
 	
 	private static final int SONG_LIST_SIZE = 2;
